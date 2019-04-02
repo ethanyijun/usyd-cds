@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/usyd-cds/precache-manifest.861e6576ac93c9f38ea3b8bcbf0eef7d.js"
+  "/yezcozyg/usyd-cds/precache-manifest.f7192e249710561de0be202b49bb2b94.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/usyd-cds/index.html", {
+workbox.routing.registerNavigationRoute("/yezcozyg/usyd-cds/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
