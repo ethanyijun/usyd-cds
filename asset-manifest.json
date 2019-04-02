@@ -1,14 +1,14 @@
 {
-  "main.css": "/yezcozyg/usyd-cds/static/css/main.694f2cf1.chunk.css",
-  "main.js": "/yezcozyg/usyd-cds/static/js/main.ceeae965.chunk.js",
-  "main.js.map": "/yezcozyg/usyd-cds/static/js/main.ceeae965.chunk.js.map",
-  "runtime~main.js": "/yezcozyg/usyd-cds/static/js/runtime~main.de0ac249.js",
-  "runtime~main.js.map": "/yezcozyg/usyd-cds/static/js/runtime~main.de0ac249.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/yezcozyg/usyd-cds/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/yezcozyg/usyd-cds/static/js/2.6efc73d3.chunk.js.map",
-  "index.html": "/yezcozyg/usyd-cds/index.html",
-  "precache-manifest.f7192e249710561de0be202b49bb2b94.js": "/yezcozyg/usyd-cds/precache-manifest.f7192e249710561de0be202b49bb2b94.js",
-  "service-worker.js": "/yezcozyg/usyd-cds/service-worker.js",
-  "static/css/main.694f2cf1.chunk.css.map": "/yezcozyg/usyd-cds/static/css/main.694f2cf1.chunk.css.map",
-  "static/media/logo.svg": "/yezcozyg/usyd-cds/static/media/logo.5d5d9eef.svg"
+  "main.css": "/usyd-cds/static/css/main.694f2cf1.chunk.css",
+  "main.js": "/usyd-cds/static/js/main.83a4677f.chunk.js",
+  "main.js.map": "/usyd-cds/static/js/main.83a4677f.chunk.js.map",
+  "runtime~main.js": "/usyd-cds/static/js/runtime~main.6c33dc50.js",
+  "runtime~main.js.map": "/usyd-cds/static/js/runtime~main.6c33dc50.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/usyd-cds/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/usyd-cds/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/usyd-cds/index.html",
+  "precache-manifest.861e6576ac93c9f38ea3b8bcbf0eef7d.js": "/usyd-cds/precache-manifest.861e6576ac93c9f38ea3b8bcbf0eef7d.js",
+  "service-worker.js": "/usyd-cds/service-worker.js",
+  "static/css/main.694f2cf1.chunk.css.map": "/usyd-cds/static/css/main.694f2cf1.chunk.css.map",
+  "static/media/logo.svg": "/usyd-cds/static/media/logo.5d5d9eef.svg"
 }
